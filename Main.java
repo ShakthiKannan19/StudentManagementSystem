@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Student Management System");
         System.out.println("Welcome Student");
         System.out.println("GitHub Learning - Lesson 1");
+        System.out.println("Git Pull lesson");
     }
 }
